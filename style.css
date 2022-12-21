@@ -16,15 +16,16 @@
     border: none;
     color: #4b82fa;
 }
-button{ 
-    width: 60px;
+input.btn{ 
+    width: 70px;
     height: 30px;
     border: 1px;
     border-radius: 2px;
     color: white;
-    background: rgb(30, 160, 231);
+    background: rgb(17, 119, 174);
     border-color: rgb(30, 160, 231);
     margin-top: 30px;
+    
     
 }
 form{
